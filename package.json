@@ -1,0 +1,27 @@
+{
+  "name": "frc-events-api",
+  "version": "0.0.0",
+  "description": "Node package for querying the FRC Events API",
+  "main": "main.js",
+  "dependencies": {
+    "handlebars": "~3.0.1",
+    "underscore": "~1.8.3",
+    "request": "~2.55.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecwyne/frc-events-api"
+  },
+  "keywords": [
+    "FRC"
+  ],
+  "author": "Eric Wyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecwyne/frc-events-api/issues"
+  }
+}
